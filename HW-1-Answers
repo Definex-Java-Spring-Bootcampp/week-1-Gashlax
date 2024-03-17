@@ -4,6 +4,7 @@ Soru-1
   Hibernate: Hibernate, Java nesnelerini ilişkisel veritabanı tablolarıyla eşleştirmek için kullanılan bir ORM (Object-Relational Mapping) framework'üdür. Bu, veritabanı işlemlerini gerçekleştirmeyi kolaylaştırır ve veritabanı bağımlılığını azaltır.
   Spring Boot: Spring Boot, Spring uygulamalarını hızlı bir şekilde oluşturmak ve yapılandırmak için kullanılan bir framework'tür.
   Apache Maven: Maven, Java projelerinin yapılandırılması, bağımlılıkların yönetilmesi ve proje yaşam döngüsü yönetimi için kullanılan bir araçtır.
+
 Soru-2
   SOA (Service-Oriented Architecture): SOA, yazılım bileşenlerini hizmetlere dönüştürmek ve bu hizmetleri birbirine bağlamak için bir mimari yaklaşımıdır. SOA, uygulamalar arası iletişimi kolaylaştırır ve esnek, yeniden kullanılabilir ve ölçeklenebilir sistemler oluşturmayı hedefler.
   Web Servisleri (Web Services): Web servisleri, ağ üzerinden farklı platformlar arasında iletişim kurmak için kullanılan yazılım bileşenleridir. Web servisleri, SOAP (Simple Object Access Protocol) veya REST (Representational State Transfer) gibi protokoller kullanarak iletişim sağlayabilir.
@@ -14,3 +15,12 @@ Soru-2
     PUT: Belirtilen URI'deki kaynağı güncellemek veya yeni bir kaynak oluşturmak için kullanılır.
     DELETE: Belirtilen URI'deki kaynağı silmek için kullanılır.
     Idempotent terimi önemli bir terimdir, işlemin tekrarlanması durumunda sonucun değişmeyeceği anlamına gelir.
+
+Soru-3
+  Kredin bizden service de denedim. Ama anladığım kadarıyla Spring zaten kendi içinde bir Singleton yapı barındırıyor. En azından şu anlık çok kullanım alanı bulamadım.
+
+Soru-4
+  Projeyi forkladım. Linki: https://github.com/Gashlax/kredinbizden-service 
+
+Soru-5
+  Linki: https://github.com/Gashlax/eCommerce 
