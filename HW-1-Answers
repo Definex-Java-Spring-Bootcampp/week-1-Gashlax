@@ -1,0 +1,16 @@
+HW-1
+Soru-1
+  Spring Framework: Temel olarak, bağımlılık enjeksiyonu, aspect-oriented programming (AOP), MVC web uygulamaları ve JDBC gibi görevleri kolaylaştırmak için tasarlanmıştır.
+  Hibernate: Hibernate, Java nesnelerini ilişkisel veritabanı tablolarıyla eşleştirmek için kullanılan bir ORM (Object-Relational Mapping) framework'üdür. Bu, veritabanı işlemlerini gerçekleştirmeyi kolaylaştırır ve veritabanı bağımlılığını azaltır.
+  Spring Boot: Spring Boot, Spring uygulamalarını hızlı bir şekilde oluşturmak ve yapılandırmak için kullanılan bir framework'tür.
+  Apache Maven: Maven, Java projelerinin yapılandırılması, bağımlılıkların yönetilmesi ve proje yaşam döngüsü yönetimi için kullanılan bir araçtır.
+Soru-2
+  SOA (Service-Oriented Architecture): SOA, yazılım bileşenlerini hizmetlere dönüştürmek ve bu hizmetleri birbirine bağlamak için bir mimari yaklaşımıdır. SOA, uygulamalar arası iletişimi kolaylaştırır ve esnek, yeniden kullanılabilir ve ölçeklenebilir sistemler oluşturmayı hedefler.
+  Web Servisleri (Web Services): Web servisleri, ağ üzerinden farklı platformlar arasında iletişim kurmak için kullanılan yazılım bileşenleridir. Web servisleri, SOAP (Simple Object Access Protocol) veya REST (Representational State Transfer) gibi protokoller kullanarak iletişim sağlayabilir.
+  RESTful Service: RESTful servisler, REST mimarisine dayanan web servisleridir. REST, kaynakları tanımlamak için URI'leri kullanır ve HTTP protokolünü kullanarak kaynaklar üzerindeki işlemleri (GET, POST, PUT, DELETE vb.) gerçekleştirir.
+  HTTP Metodları: HTTP protokolü, web üzerinde veri iletişimini sağlar. Bazı temel HTTP metodları şunlardır:
+    GET: Belirtilen URI'den kaynakları almak için kullanılır.
+    POST: Yeni bir kaynak oluşturmak için kullanılır.
+    PUT: Belirtilen URI'deki kaynağı güncellemek veya yeni bir kaynak oluşturmak için kullanılır.
+    DELETE: Belirtilen URI'deki kaynağı silmek için kullanılır.
+    Idempotent terimi önemli bir terimdir, işlemin tekrarlanması durumunda sonucun değişmeyeceği anlamına gelir.
